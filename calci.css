@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background-repeat: none;
+}
+.col-md-6{
+    margin-top: 150px !important;
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+table{
+    display: flex;
+    justify-content:center;
+    padding: 24px;
+    border: 1px solid black;
+}
+td{
+    padding: 10px;
+    margin: auto;
+}
+input[type=button]{
+    width: 100%;
+    background-color: darkcyan;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid black;
+}
+input[type=text]{
+    width: 100%;
+}
+h1{
+    font-weight: bolder !important;
+    margin-top: 15px;
+}
